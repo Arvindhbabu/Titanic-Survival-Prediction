@@ -60,9 +60,3 @@ The pipeline emphasizes robustness to missing data and categorical encoding for 
 Key Insights:
 - Females and higher-class passengers had higher survival rates.
 - The model performs well on non-survivors but slightly underperforms on survivors, indicating potential for hyperparameter tuning.
-
-![Accuracy Chart]("C:\Users\varav\Documents\Projects\Data Science Intern Codsoft\Titanic Survival Prediction\Accuracy chart.png") <!-- Optional: Add a screenshot of results -->
-
-## Setup and Installation
-
-1. Clone the repository:
